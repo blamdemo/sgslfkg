@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "lk"
+  description: "kl"
+  annotations:
+    github.com/project-slug: blamdemo/sgslfkg
+    backstage.io/techdocs-ref: url:https://github.com/blamdemo/sgslfkg
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "hgf"
